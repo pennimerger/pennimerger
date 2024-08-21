@@ -6,7 +6,7 @@ I'm a versatile **Software and Web Developer** with a robust skill set spanning 
 
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL, Python, Solidity
 - **Frontend:** React, TypeScript, HTML, CSS, Tailwind, JavaScript
-- **Testing & Automation:** Selenium, Playwright, Jupyter Notebook
+- **Testing & Automation:** Selenium, Playwright, Jupyter Notebook, Jest, Supertest
 
 I excel in crafting responsive, high-performance web applications that deliver exceptional user experiences.
 
@@ -21,7 +21,7 @@ I excel in crafting responsive, high-performance web applications that deliver e
 ![Frontend](https://img.shields.io/badge/Frontend-React%2C%20TypeScript%2C%20HTML%2C%20CSS%2C%20JavaScript%2C%20Tailwind-lightblue)
 
 ### **Testing & Automation**
-![Testing](https://img.shields.io/badge/Testing-Selenium%2C%20Playwright%2C%20Jupyter%20Notebook-green)
+![Testing](https://img.shields.io/badge/Testing-Selenium%2C%20Playwright%2C%20Jupyter%20Notebook%2C%20Jest%2C%20Supertest-green)
 
 ## Projects & Portfolio
 
