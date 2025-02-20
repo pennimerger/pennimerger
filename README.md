@@ -27,7 +27,7 @@ I excel in crafting responsive, high-performance web applications that deliver e
 
 Explore my work and see how I turn ideas into dynamic web solutions:
 
-- [**Personal Website**](https://t.ly/cQEGZ) – View my portfolio and latest projects.
+- [**Personal Website**](https://portfolio-nb9t.onrender.com/) – View my portfolio and latest projects.
 
 ## Let's Connect
 
